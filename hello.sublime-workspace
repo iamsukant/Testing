@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"name",
+				"nameList\tstatement"
+			],
+			[
+				"bs",
+				"bsObj"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"lef",
+				"margin-left"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package control",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sukanth.srivastav/Desktop/Testing/kendrick.html",
+		"/Users/sukanth.srivastav/Desktop/Testing/hi.html",
+		"/Users/sukanth.srivastav/Desktop/Testing/hello.html",
+		"/Users/sukanth.srivastav/Desktop/index.html",
+		"/Users/sukanth.srivastav/Desktop/Date-Wise-Prices-all-Commodity.xml",
+		"/Users/sukanth.srivastav/Desktop/l3f43l0515dec15/L3-NF43L05-097-056-15Dec15.xml",
+		"/Users/sukanth.srivastav/Desktop/swordfish.py",
+		"/Users/sukanth.srivastav/Desktop/pythonscraper01.py",
+		"/Users/sukanth.srivastav/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/sukanth.srivastav/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/sukanth.srivastav/anaconda3/lib/python3.6/site-packages/boto/redshift/__init__.py",
+		"/Users/sukanth.srivastav/Desktop/datasciencedojo.py",
+		"/Users/sukanth.srivastav/Desktop/flight.py",
+		"/Users/sukanth.srivastav/Desktop/recommendation hotels.py",
+		"/Users/sukanth.srivastav/Desktop/indexn.html",
+		"/Users/sukanth.srivastav/Desktop/dup/index.html",
+		"/Users/sukanth.srivastav/Desktop/flaskpro1/templates/index.html",
+		"/Users/sukanth.srivastav/Desktop/flew/css/style.css",
+		"/Users/sukanth.srivastav/Desktop/mymodules/vsearch.py",
+		"/Users/sukanth.srivastav/Desktop/mymodules/dist/vsearch-0.0.0/vsearch.py",
+		"/Users/sukanth.srivastav/Desktop/flew/css/bootstrap.css",
+		"/Users/sukanth.srivastav/Desktop/flew/css/animate.css",
+		"/Users/sukanth.srivastav/Desktop/flaskdemo/eb-flask/templates/results.html",
+		"/Users/sukanth.srivastav/Desktop/flaskdemo/eb-flask/templates/entry.html",
+		"/Users/sukanth.srivastav/Desktop/flaskdemo/eb-flask/templates/base.html",
+		"/Users/sukanth.srivastav/Desktop/flaskdemo/eb-flask/entry.html",
+		"/Users/sukanth.srivastav/Desktop/flaskdemo/eb-flask/vsearch4web.py",
+		"/Users/sukanth.srivastav/Desktop/mymodules/setup.py",
+		"/Users/sukanth.srivastav/Desktop/flaskdemo/eb-flask/basetemplate.html",
+		"/Users/sukanth.srivastav/Desktop/flaskdemo/eb-flask/hf.css",
+		"/Users/sukanth.srivastav/Desktop/flaskdemo/eb-flask/results.html",
+		"/Users/sukanth.srivastav/Desktop/flaskdemo/eb-flask/search4letters.py",
+		"/Users/sukanth.srivastav/Desktop/webapp/RC_2006-03.out",
+		"/Users/sukanth.srivastav/Desktop/webapp/RC_2006-02.out",
+		"/Users/sukanth.srivastav/Desktop/python4.py",
+		"/Users/sukanth.srivastav/Desktop/python3.py",
+		"/Users/sukanth.srivastav/Desktop/python2.py",
+		"/Users/sukanth.srivastav/Desktop/python1.py",
+		"/Users/sukanth.srivastav/Desktop/mission.html",
+		"/Users/sukanth.srivastav/Desktop/MIT.html",
+		"/Users/sukanth.srivastav/Desktop/engineering.html",
+		"/Users/sukanth.srivastav/Desktop/webapp/base.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 330.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "hello.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
