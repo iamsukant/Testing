@@ -2,8 +2,23 @@ h1{
 	color: red;
 	text-align: center;
 }
-div{
-background-image: url(https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjLpoTTmOrdAhVTXisKHcypDrgQjRx6BAgBEAU&url=http%3A%2F%2Ftrappedmagazine.com%2Fkendrick-lamar-element-video-is-now-an-art-exhibition%2F&psig=AOvVaw1p5DyKgMx6z2Ysg9_0KTl8&ust=1538653373574627)
-height:300;
-width: 700;
+#headingpage{
+	font-size: 36px;
+
 }
+.headingrow{
+
+font-size: 20px;
+
+}
+table{
+			border: 5px solid grey;
+			border-collapse: collapse;
+		}
+th,td{
+			width: 50%;
+			border:10px solid grey;
+			padding: 5px;
+			text-align: center;
+
+		}
