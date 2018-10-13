@@ -11,14 +11,10 @@ h1{
 font-size: 20px;
 
 }
-table{
-			border: 5px solid grey;
-			border-collapse: collapse;
-		}
-th,td{
-			width: 50%;
-			border:10px solid grey;
-			padding: 5px;
-			text-align: center;
-
-		}
+table,th,td
+{
+	border:10px solid grey;
+	padding: 5px;
+	text-align: center;
+	border-collapse: collapse;
+}
